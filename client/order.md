@@ -11,10 +11,10 @@ This API provides notification with customer order.
 
 ## Header Params ##
 
-| Key           | Value  | Required | Description      |
-| ------------- | ------ | -------- | ---------------- |
-| Content-Type  | string | true     | application/json |
-| Authorization | string | true     |                  |
+| Key           | Value  | Required | Description         |
+| ------------- | ------ | -------- | ------------------- |
+| Content-Type  | string | true     | application/json    |
+| Authorization | string | true     | token from auth API |
 
 ## Data Params ##
 

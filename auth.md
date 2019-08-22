@@ -11,10 +11,10 @@ This API provides authorization.
 
 ## Header Params ##
 
-| Key           | Value  | Required | Description                             |
-| ------------- | ------ | -------- | --------------------------------------- |
-| Content-Type  | string | true     | application/json                        |
-| X-Header      | string | true     | specific string that need for authorize |
+| Key          | Value  | Required | Description                         |
+| ------------ | ------ | -------- | ----------------------------------- |
+| Content-Type | string | true     | application/json                    |
+| X-Header     | string | true     | ***( must be "l;lyfu8iy[" )*** only |
 
 ## Example success response ##
 
